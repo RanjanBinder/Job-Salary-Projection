@@ -1,2 +1,6 @@
-# SciPyForge
-Welcome to my repos "SciPyForge", your go-to destination for cutting-edge data science projects and insights. Dive into a world of data exploration, predictive modeling, machine learning, and more as we uncover the hidden patterns and insights within vast datasets.
+# Job Salary Projector
+Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
+Scraped over 1000 job descriptions from glassdoor using python and selenium
+Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark.
+Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.
+Built a client facing API using flask
